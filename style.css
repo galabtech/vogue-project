@@ -1,0 +1,122 @@
+.gal {
+background-image: url("g.jpg");
+background-position: center;
+background-size: 20%;
+opacity:0.8;
+
+
+
+  
+}
+
+
+
+.container2 {
+  height: 443px;
+  width: 200px;
+  background-color:white;
+  opacity: 0.9;
+padding: 10px;
+margin-left:-40px;
+margin-right:60px;
+margin-top: 50px;
+margin-bottom:100px;
+border-style: solid;
+border-color: black;
+font-size: 13px;
+text-align: center;
+font-weight: bold;
+font-family:Georgia, 'Times New Roman', Times, serif;
+display: inline-table;
+position: relative;
+left:3%;
+border-width: 0.5px;
+text-decoration: underline ;
+
+
+
+}
+
+h1:hover {
+color: orangered;
+
+
+}
+
+.container3{
+  padding: 10px;
+  margin-left:280px;
+  height: 443px;
+  width: 200px;
+  margin-top:10px;
+   font-size: 13px;
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  display: inline-table;
+  border-style: solid;
+  position: relative;
+  left:-2%;
+  border-width: 0.1px;
+  text-decoration: underline ;
+  font-weight: bold;
+  
+  background-color:white;
+  opacity: 0.9;
+  
+  
+}
+
+.container4{
+height: 443px;
+width: 200px;
+  font-size: 13px;
+padding: 10px;
+margin-left:-180px;
+margin-top:2px;
+background-color:white;
+opacity: 0.9;
+font-weight: 500;
+text-align: center;
+font-family:Georgia, 'Times New Roman', Times, serif; 
+display: inline-table;
+position: relative;
+left:15%;
+color:black;
+border-style: solid;
+border-color: black;
+border-width: 0.1px;
+text-decoration: underline ;
+font-weight: bold;
+
+}
+
+p:hover{
+  background-color: orangered;
+}
+
+.btn{
+  position:absolute;
+left: 50px;
+bottom: 70px;
+  background-color:coral;
+  border: black;
+  
+  height: 50px;
+  width: 100px;
+  
+  border-style: solid;
+  border-width: thin;
+  color: white;
+  font-weight: bold;
+
+}
+
+#input:hover,#input2:hover,#input3:hover,#input4:hover,#input5:hover,#input6:hover,#input7:hover{
+  background-color: coral;
+  
+}
+
+
+
+
+ 
